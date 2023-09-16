@@ -1,0 +1,5 @@
+In HTML, a tag is a special keyword enclosed in angle brackets < and >. Tags are used to define elements in an HTML document. Most HTML tags come in pairs and consist of an opening tag <tag> and a closing tag </tag>. The content is placed between these tags.
+An element, on the other hand, is a part of a webpage. In HTML, an element is defined by start and end tags, with content in between. An element can contain text, links, images, lists, forms, other elements, and more.
+Here’s an example:
+           1)<p>This is a paragraph element in HTML.</p>
+In this example, <p> is the opening tag, </p> is the closing tag, and "This is a paragraph element in HTML." is the content. Together they form an HTML element. The ‘p’ tag defines a paragraph.
